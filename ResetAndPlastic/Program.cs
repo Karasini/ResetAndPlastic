@@ -11,6 +11,8 @@ namespace ResetAndPlastic
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello from Plastic SCM 2");
+            Console.WriteLine("Just change it");
             Console.ReadKey();
         }
     }

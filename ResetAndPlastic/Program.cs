@@ -12,7 +12,7 @@ namespace ResetAndPlastic
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello from Plastic SCM");
-            Console.WriteLine("Just change it");
+            Console.WriteLine("Just change it - presentation edit from plastic");
             Console.ReadKey();
         }
     }

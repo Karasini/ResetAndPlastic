@@ -12,6 +12,7 @@ namespace ResetAndPlastic
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello from Plastic SCM -hello reset ATH!!!");
+            Console.WriteLine("1");
             Console.ReadKey();
         }
     }
